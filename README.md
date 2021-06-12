@@ -5,7 +5,7 @@
 ![Avatar -profil](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOd256TcC6vcaQ99TYzoP0pBbch9_Q-bbrmw&usqp=CAU)
 
 <p align="center">
-  <img align="center" width ="50%" src="https://media.giphy.com/media/KNGCiwOeep7BfFqK2N/giphy.gif" alt="Avatar">
+  <img align="left" width ="30%" src="https://media.giphy.com/media/KNGCiwOeep7BfFqK2N/giphy.gif" alt="Avatar">
   </p>
   
 
