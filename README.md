@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bonjour
+## je m'appelle Mohamed
+### je vis a Paris
 
-<!--
-**developpeurhack/developpeurhack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Avatar -profil](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOd256TcC6vcaQ99TYzoP0pBbch9_Q-bbrmw&usqp=CAU)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img align="center" width ="100%" src="https://media.giphy.com/media/KNGCiwOeep7BfFqK2N/giphy.gif" alt="Avatar">
+  </p>
+  
+  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=5H59Py7KApU?autoplay=1&mute=1">
+</iframe>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## On passe d'un systeme de programmation a un mode d'apprentissage !!! .
+
+* Techno :
+ * HTML , CSS, Javascript, PHP
+ * Bootstrap, Wordpress, Angular, symfony
+ * Python
+ 
