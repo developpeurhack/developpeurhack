@@ -1,12 +1,13 @@
 # 👋
 # bonjour 
 ## je m' appelle mohamed
-### je vis a paris
-
-![profil ]( https://www.soprasteria.com/images/librariesprovider2/default-album/ia-supply-chain.jpg?sfvrsn=a464e3dc_5)
+### je vis a paris 
 
 
-Here are some ideas to get you started:
+![profil ](https://img.freepik.com/vecteurs-libre/ordinateur-portable-icone-isometrique-code-programme-developpement-logiciels-applications-programmation-neon-sombre_39422-971.jpg?w=400)
+
+
+
 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate 
